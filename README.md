@@ -1,4 +1,4 @@
-# AMOC
+# SST Variations in the N. Atlantic Subpolar Gyre as a Precursor of Potential AMOC Collapse 
 Satellite Oceanography - OCG 32B1: Practical report, code
 study_area.ipynb : Gives the code which was used to map the study area
 amoc-sg.ipynb : Gives the code which was used to get the anomaly of subpolar gyre (SG)
